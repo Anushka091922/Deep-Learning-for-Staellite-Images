@@ -1,3 +1,6 @@
+# 1.Introduction
+
+Despite substantial advances in global human well-being, the world continues to experience humanitarian crizes and natural disasters. Long-term and reignited conflicts affect people in many parts of the world, but often, accurate maps of the affected regions either do not exist or are outdated by disaster or conflict. Satellite imagery is readily available to humanitarian organizations, but translating images into maps is an intensive effort. Today, maps are produced by specialized organizations or in volunteer events such as mapathons, where imagery is annotated with roads, buildings, farms, rivers etc. In this work, we explore how machine learning can help pave the way for automated analysis of satellite imagery to generate relevant and real-time maps.
 
 ## Resources
 
